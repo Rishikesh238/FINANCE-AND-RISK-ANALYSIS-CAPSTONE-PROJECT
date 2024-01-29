@@ -1,14 +1,15 @@
 # FINANCE-AND-RISK-ANALYSIS-CAPSTONE-PROJECT
-Your task is to provide consultation to two different investors, Mr Patrick Jyenger and Mr Peter Jyenger based on their requirements and financial objectives. 
-Following points summarise the expected tasks in the assignment:
+Our task was to provide consulting services to two investors, Mr. Patrick Jyenger and Mr. Peter Jyenger, based on their financial objectives and requirements.
+Here's a breakdown of what we needed to do:
 
-1. You must use the elements of technical analysis to understand the trend of the underlying stocks. The metrics associated with risk and returns must help you realise whether the security meets the criteria of your investor’s financial goals.
-2. You must use the metrics and the visualisations to compare the performance of the available securities against each other, and also against the market index, S&P500.
-3. The findings should be aligned with the investor persona to select the appropriate stocks for the portfolio.
-4. After the selection of stocks, the portfolio must be validated using the active investment strategy to estimate the prices in future. You must check if the portfolio has the potential to fulfil the financial goals set by the investor.
+1. Understanding Trends and Metrics: Our goal was to analyze the trends of various stocks using technical analysis.
+    We used metrics related to risk and returns to assess if the stocks aligned with the investors' financial goals.
+3. Performance Comparison: We compared the performance of available securities against each other and also against the S&P 500 market index using metrics and visualizations.
+4. Alignment with Investor Persona: We ensured that our findings were in line with the specific preferences and objectives of each investor to select suitable stocks for their portfolios.
+5. Portfolio Validation: After selecting stocks, we applied an active investment strategy to estimate future prices. We checked if the portfolio had the potential to meet the financial goals set by the investors.
 
-The entire capstone can be divided into the following aspects:
-Preliminary Steps - Data loading
-Data Exploration
-Stock Analysis and Portfolio Management
-Reporting
+The project was divided into the following phases:
+1. Preliminary Steps: Data loading and preparation.
+2. Data Exploration: Exploring the dataset to understand its characteristics.
+3. Stock Analysis and Portfolio Management: Analyzing stocks and managing portfolios based on investor requirements.
+4. Reporting: Presenting findings and recommendations to the investors.
